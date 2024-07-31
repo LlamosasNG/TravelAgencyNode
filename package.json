@@ -1,0 +1,17 @@
+{
+  "name": "agenciadeviajesnode",
+  "version": "1.0.0",
+  "description": "Travel agency using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Noe Ramses Gonzalez Llamosas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "pug": "^3.0.3"
+  }
+}
